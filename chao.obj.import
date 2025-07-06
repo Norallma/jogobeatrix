@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/chao.obj-6e6028077105c7a26b896979aab56ced.mesh"
+
+[deps]
+
+files=[ "res://.import/chao.obj-6e6028077105c7a26b896979aab56ced.mesh" ]
+
+source_file="res://chao.obj"
+dest_files=[ "res://.import/chao.obj-6e6028077105c7a26b896979aab56ced.mesh", "res://.import/chao.obj-6e6028077105c7a26b896979aab56ced.mesh" ]
+
+[params]
+
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh_flags=4286
+generate_tangents=true
+vertex_cache_optimization=true
+octahedral_compression=true
